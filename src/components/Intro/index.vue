@@ -10,6 +10,9 @@
             <p>
                 Il reconnaît les personnes dans les domaines de la physique, de la chimie, de la physiologie ou de la médecine, de la littérature, de la paix et de l'économie. Ce jeu de données a des attributs : id, firstname, surname, born, died, bornCountry, bornCountryCode, bornCity, diedCountry, diedCountryCode, diedCity, gender, year, category, overallMotivation, share, motivation, name, city, country.
             </p>
+            <p>
+                Tableau en ligne : <a href="https://eu-west-1a.online.tableau.com/#/site/meichen/workbooks/248493?:origin=card_share_link">https://eu-west-1a.online.tableau.com/#/site/meichen/workbooks/248493?:origin=card_share_link</a>
+            </p>
         </div>
         <el-image :src="img0"></el-image>
     </div>
