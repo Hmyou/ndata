@@ -41,6 +41,12 @@
             </div>
             <el-image :src="img6"></el-image>
         </el-collapse-item>
+        <el-collapse-item title="7. Dans quelle gatégorie il y la plus de personnes en Amerique？" name="7">
+            <div>
+                Dans la catégorie de médecine il y a le plus de personnes pour Amérique. On peur le voir dans “la distribution of categories over countries”.
+            </div>
+            <el-image :src="img7"></el-image>
+        </el-collapse-item>
     </el-collapse>
 </template>
 <script>
@@ -50,6 +56,7 @@
     import img4 from '@/static/i4.png'
     import img5 from '@/static/i5.png'
     import img6 from '@/static/i6.png'
+    import img7 from '@/static/i7.png'
     export default {
         data() {
             return {
@@ -59,7 +66,8 @@
                 img3,
                 img4,
                 img5,
-                img6
+                img6,
+                img7
             };
         },
         methods: {
